@@ -1,5 +1,5 @@
 ### Title of the project: Eyes
-Description of the project: Move Eyes on th screen following the mouse <br>
+Description of the project: Move Eyes on the screen following the mouse <br>
 How to Run: Select the link in Int3lltec Group WEB Dev Portfolio <br>
 Roadmap of future improvements: <br>
 
